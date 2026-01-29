@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/awerner9/ecommerce-server#readme",
   "dependencies": {
+    "@ljharb/tsconfig": "^0.3.2",
     "express": "^5.2.1"
   }
 }
